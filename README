@@ -1,0 +1,3 @@
+This example illustrates how to automatically
+have the coffeescript programs compiled to javascript
+as soon as they are modified.
