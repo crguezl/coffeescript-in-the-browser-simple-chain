@@ -1,0 +1,6 @@
+{ "name" : "coffeescript-development-example"
+, "version" : "1.0.0"
+, "dependencies" : { "http-server" : "0.5.03", 
+                     "coffee-script" : "1.6.2"
+                   } 
+}
